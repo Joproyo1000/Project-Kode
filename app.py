@@ -1,1 +1,2 @@
-import pyxel as px
+import pygame as pg
+# :)
