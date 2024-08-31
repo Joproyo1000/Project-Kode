@@ -1,0 +1,9 @@
+For the walk animation :
+* first is the "walk1" sprite
+* then it's the "walk2" sprite
+* then it's the "walk1" sprite
+* then it's the "idle1" sprite
+* then it's the "walk3" sprite
+* then it's the "walk4" sprite
+* then it's the "walk3" sprite
+* then it's the "idle1" sprite
